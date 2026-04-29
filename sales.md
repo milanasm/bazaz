@@ -143,6 +143,8 @@ VALUES (1,1, 1, 1, 1050, 100)
 ```
 <img width="372" height="40" alt="{C675FED7-862E-4842-B32F-2B268FD81793}" src="https://github.com/user-attachments/assets/96ee83fe-fea7-4860-850a-1db10ef42603" />
 
+DIAGRAAM
+<img width="809" height="854" alt="{8325EEDA-555F-4B8E-A8B9-04C121696FBE}" src="https://github.com/user-attachments/assets/3a9a8a99-67f5-4dad-829e-ef93162fefaa" />
 
 
 
